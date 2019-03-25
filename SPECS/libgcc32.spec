@@ -2,7 +2,7 @@
 Summary: 32 bits gcc lib
 Name: libgcc32
 Version: 4.8.5
-Release: 4.1%dist
+Release: 4.2%dist
 License: LGPL
 # 32 bit binaries are extracted from the built RPMs directly
 # The RPMs come from CentOS
